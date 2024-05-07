@@ -57,10 +57,7 @@ The counting speed is taken as the most important factor in the selection of dec
 Flash Magic Tool,8051 Micro Controller, Seven segement Cathode
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kvtharunkumar&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kvtharunkumar&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kvtharunkumar&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
