@@ -66,7 +66,8 @@ Flash Magic Tool,8051 Micro Controller, Seven segement Cathode
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Dev Meme
-![9d4a8f8d928e87b62181899e08484152](https://gist.github.com/assets/117527544/3bab5d77-4c03-438b-80ef-d25904de2585)
+![9d4a8f8d928e87b62181899e08484152](https://github.com/kvtharunkumar/kvtharunkumar/assets/117527544/53a4ab96-f8b0-41ed-9c9c-3ac33cc42669)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kvtharunkumar&icon=0&color=0)](https://visitcount.itsvg.in)
