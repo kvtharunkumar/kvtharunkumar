@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kallur-vasudeva-tharun-kumar-652343222/) 
+[![Website](https://kvtharunkumar.netlify.app/)
 
 
 # 💻 Tech Stack:
