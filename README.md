@@ -13,22 +13,13 @@ I'm a passionate Data Science Engineer at Nunam with expertise in ETL, ELT, Pyth
 ## 📈 GitHub Stats
 ![Tharun Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvtharunkumar&show_icons=true&theme=radical)
 
-## 🔭 Current Projects
-- **[Project 1](https://github.com/kvtharunkumar/project1):** Description of project 1.
-- **[Project 2](https://github.com/kvtharunkumar/project2):** Description of project 2.
-
 ## 🌱 Learning
 - Advanced algorithms and data structures
 - Cloud computing with AWS and Azure
 - Machine learning techniques and applications
 
 ## 📫 How to reach me
-- **Email:** [kvtharunkumar@example.com](mailto:kvtharunkumar@example.com)
-- **LinkedIn:** [Tharun Kumar](https://www.linkedin.com/in/kvtharunkumar/)
-- **Twitter:** [@kvtharunkumar](https://twitter.com/kvtharunkumar)
-
+- **LinkedIn:** [Tharun Kumar](https://www.linkedin.com/in/kallurvasudeavtharunkumar/)
 ## ⚡ Fun fact
 I love solving puzzles and playing chess in my free time!
 
-*Last updated on 2025-02-19*
-```` ▋
